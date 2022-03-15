@@ -1,4 +1,4 @@
-##Mitmproxy addon to use google translate
+## Mitmproxy over google translate
 
 Small addon for mitmproxy to proxy traffic throw google translate
 
